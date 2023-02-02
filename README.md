@@ -3,9 +3,13 @@
 
 ## 👩🏼‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying for an MPhil in Computational Biology at the University of Cambridge.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, Coding Theory, and Bioinformatics.
+💡 &nbsp; Hi there! I'm a Masters student in Computational Biology with a strong background in mathematics. My undergraduate degree in mathematics has provided me with a solid foundation in problem solving and critical thinking, which I've been able to apply in my studies and research in biology.
+
+🎓 &nbsp; I am particularly interested in using machine learning to better understand biological systems and uncover new insights. I've had the opportunity to work on several projects that combine biology, mathematics, programming and machine learning, and I have found it to be a fascinating and rewarding field.
+
+🌱 &nbsp; I am always eager to collaborate and learn from others in the field, and I believe that GitHub is a great platform for connecting with like-minded individuals. I look forward to contributing to projects and learning from the experiences of others.
+
+🎼 &nbsp; When I'm not studying or working on research projects, I enjoy singing in choir, reading mathematical books and learning new programming languages.
 
 ## 🛠 &nbsp;Tech Stack
 
