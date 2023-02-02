@@ -1,9 +1,9 @@
 ![MasterHead](https://www.liverpool.ac.uk/media/livacuk/computationalbiologyfacility/homepage-banner-2.jpg)
-<h1>I'm Kathryn</h1>
+<h1> Hi there! I'm Kathryn</h1>
 
 ## 👩🏼‍💻 &nbsp;About Me
 
-💡 &nbsp; Hi there! I'm a Masters student in Computational Biology with a strong background in mathematics. My undergraduate degree in mathematics has provided me with a solid foundation in problem solving and critical thinking, which I've been able to apply in my studies and research in biology.
+💡 &nbsp; I'm a Masters student in Computational Biology with a strong background in mathematics. My undergraduate degree in mathematics has provided me with a solid foundation in problem solving and critical thinking, which I've been able to apply in my studies and research in biology.
 
 🎓 &nbsp; I am particularly interested in using machine learning to better understand biological systems and uncover new insights. I've had the opportunity to work on several projects that combine biology, mathematics, programming and machine learning, and I have found it to be a fascinating and rewarding field.
 
