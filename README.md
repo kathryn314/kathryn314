@@ -1,4 +1,4 @@
-![MasterHead]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fhumantechnopole.it%2Fen%2Fresearch-centres%2Fcomputational-biology%2F&psig=AOvVaw2gHbS1HismKa-jP6b6IwU8&ust=1675441187840000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCygPqe9_wCFQAAAAAdAAAAABAD))
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhumantechnopole.it%2Fen%2Fresearch-centres%2Fcomputational-biology%2F&psig=AOvVaw2gHbS1HismKa-jP6b6IwU8&ust=1675441187840000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCygPqe9_wCFQAAAAAdAAAAABAD)
 <h1>I'm Kathryn</h1>
 
 ## 👩🏼‍💻 &nbsp;About Me
